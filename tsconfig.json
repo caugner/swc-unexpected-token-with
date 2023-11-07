@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "resolveJsonModule": true
+  },
+  "ts-node": {
+    "esm": true,
+    "swc": true
+  },
+}
